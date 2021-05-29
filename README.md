@@ -1,0 +1,11 @@
+# Sentiment-Analysis-Machine-Learning
+
+SUMMARY 
+
+MOTIVATION
+
+HOW TO SET UP
+
+HOW TO USE
+
+DEPENDENCIES
